@@ -32,23 +32,23 @@ Some parts of the code may not be perfect yet — and that's totally fine. I am 
 
 
 ## 📁 Project Structure
-repear_OpenCV-Yolo-Detection
+repear_OpenCV-Yolo-Detection/
 
-again_repeat_opencv-yolo
+again_repeat_opencv-yolo/
 open_cv.py
 yolov8n.pt
-path_repeat_images
+path_repeat_images/
 
-open_cv-with_yolov-obj-detection
+open_cv-with_yolov-obj-detection/
 cv_with_yolo.py
 cv-yolo-streamlit.py
 yolov8n.pt
-yolov_images
-yolov_videos
+yolov_images/
+yolov_videos/
 
-reapear_open_cv
+reapear_open_cv/
 cv_with_haara.py
-images
+images/
 main.py
 
 

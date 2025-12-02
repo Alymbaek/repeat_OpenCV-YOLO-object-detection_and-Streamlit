@@ -29,7 +29,7 @@ Some parts of the code may not be perfect yet — and that's totally fine. I am 
 - Start/Stop capture  
 - Display annotated frames in the browser  
 
----
+
 
 ## 📁 Project Structure
 repear_OpenCV-Yolo-Detection
@@ -54,7 +54,7 @@ reapear_open_cv
 
 
 
----
+
 
 ## 🚀 How to Run
 
